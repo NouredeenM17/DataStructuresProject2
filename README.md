@@ -1,4 +1,5 @@
 This is a text editor with auto-correct, auto-complete and punctuation fixing. At startup you can select a text file to work as a dictionary.
+Levenshtein distance algorithm was used along with a max-heap to find the best auto-correct suggestions.
 
 This was created in "Data Structures" class in the first semester of my second year in Computer Engineering. Detailed analysis Below.
 
